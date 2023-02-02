@@ -1,0 +1,23 @@
+<resources>
+        <string name="app_name">Shopee</string>
+        <string name="dummy_photos">1/18</string>
+        <string name="dummy_value">PINKFLASH</string>
+        <string name="produk">Makeup Beauty Set Christmas</string>
+        <string name="price">Rp 52.500 - Rp 159.900</string>
+        <string name="content_text">PINKFLASH Christmas set limited edition, 6 sets for you to choose from! (Some sets of puffs will be shipped randomly in two specifications) FOCALLURE or PINKFLASH</string>
+        <string name="deskripsi">Description</string>
+        <string name="specification">Specification</string>
+        <string name="stock">Stock</string>
+        <string name="stok">251307</string>
+        <string name="merek">Merk</string>
+        <string name="merk">PINKFLASH</string>
+        <string name="jenis">Jenis Set dan Paket</string>
+        <string name="paket">Makeup</string>
+        <string name="masa">Masa Penyimpanan</string>
+        <string name="bulan">24 Bulan</string>
+        <string name="from">Dikirim Dari</string>
+        <string name="kota">KOTA JAKARTA BARAT</string>
+        <string name="seller">Seller</string>
+        <string name="seller_name">PINKFLASH OFFICIAL SHOP</string>
+        <string name="buy">Checkout Now!</string>
+</resources>
